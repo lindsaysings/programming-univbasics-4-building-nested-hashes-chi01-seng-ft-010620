@@ -19,7 +19,9 @@ def monopoly_with_third_tier
   	monopoly = {
   	  :railroads => {
   	    :names => {
-  	      :key_one => 1,
+  	      :b_and_o_railroad => {
+  	        
+  	      },
   	      :key_two => 2,
   	      :pennsylvania_railroad => {
   	        
