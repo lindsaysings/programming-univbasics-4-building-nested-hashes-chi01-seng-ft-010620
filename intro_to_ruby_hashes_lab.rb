@@ -22,11 +22,13 @@ def monopoly_with_third_tier
   	      :b_and_o_railroad => {
   	        
   	      },
-  	      :key_two => 2,
   	      :pennsylvania_railroad => {
   	        
   	      },
   	      :reading_railroad => {
+  	        
+  	      },
+  	      :shortline_railroad => {
   	        
   	      }
   	    },
